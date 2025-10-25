@@ -45,7 +45,6 @@ Kamu bisa melihat versi online proyek ini di GitHub Pages:
 Mahasiswa Teknik Informatika  
 Universitas Pelita Bangsa  
 
-Kontak: [LinkedIn](#) | [Email](#) *(opsional)*
 
 ---
 
